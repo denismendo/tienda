@@ -34,6 +34,18 @@ body{
 	font-weight: bold;
 }
 
+.footer{
+	color: #f3f3f3;
+
+}
+.footer p{
+	text-align: center;
+}
+.link{
+		text-decoration: none;
+		color: #f3f3f3;
+}
+
 @media(max-width:  720px){
 	.presentacion{
 		font-size: 15px;
